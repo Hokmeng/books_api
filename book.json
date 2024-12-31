@@ -1,0 +1,50 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Effective Java",
+        "author": "Joshua Bloch",
+        "price": 40.00,
+        "category": "Programming",
+        "coverImage": "https://www.oreilly.com/library/cover/9780134686097/1200w630h/",
+        "description": "A comprehensive guide to best practices for Java programming."
+      },
+      {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "price": 35.00,
+        "category": "Programming",
+        "coverImage": "https://matthewrenze.com/wp-content/uploads/2016/12/clean-code.jpg",
+        "description": "A handbook of agile software craftsmanship."
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 10.00,
+        "category": "Fiction",
+        "coverImage": "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1",
+        "description": "A novel set in the Jazz Age that tells the story of Jay Gatsby and his unrequited love."
+      },
+      {
+        "id": 4,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": 15.99,
+        "category": "Self-Help",
+        "coverImage": "https://wizdomapp.com/wp-content/uploads/2024/02/Atomic-Habits-1.png",
+        "description": "An easy and proven way to build good habits and break bad ones."
+      },
+      {
+        "id": 5,
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "price": 20.00,
+        "category": "Biography",
+        "coverImage": "https://www.jewishbookcouncil.org/sites/default/files/styles/book/public/images/Becoming-Brianna.jpg",
+        "description": "A deeply personal memoir by the former First Lady of the United States."
+      }
+    ]
+  }
+  
